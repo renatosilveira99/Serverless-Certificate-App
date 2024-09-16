@@ -1,4 +1,6 @@
-# Serverless - AWS Node.js Typescript
+# Certificate-Generator-Lambda
+
+Certificate-Generator-Lambda is a serverless application designed to generate course completion certificates using AWS Lambda with Node.js and TypeScript. This project provides a scalable and efficient solution for automating the creation of personalized certificates for course participants.
 
 This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
 
